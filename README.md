@@ -1,42 +1,58 @@
-<h1 align="center">Hi, I'm Vismaya 👋</h1>
+<div align="center">
 
-<p align="center">
-Computer Science Student @ PSG College of Technology <br/>
-AI/ML Enthusiast • Deep Learning • Reinforcement Learning
-</p>
+# Hi, I'm Vismaya 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vismayavinodk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vismayakv36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### Computer Science Student @ PSG College of Technology
 
----
+### AI • Deep Learning • Reinforcement Learning
 
-### About
+<br>
 
-- 🤖 Interested in AI, Deep Learning & Reinforcement Learning
-- 🧠 Exploring RNNs, LSTMs, LLMs and intelligent systems
-- ⚡ Building ML projects using Python & TensorFlow
-- 🌱 Currently learning MLOps and scalable AI systems
+<a href="https://www.linkedin.com/in/vismayavinodk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vismayakv36@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### Tech Stack
+## About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,react,fastapi,mysql,git" />
-</p>
+* 🤖 Passionate about Artificial Intelligence and intelligent systems
+* 🧠 Exploring Deep Learning, RNNs, LSTMs and Reinforcement Learning
+* ⚡ Building practical ML projects using Python & TensorFlow
+* 🌱 Currently learning MLOps and scalable AI deployment
 
 ---
 
-### GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vismayavinodk&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismayavinodk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,sklearn,react,fastapi,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vismayavinodk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismayavinodk&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Building intelligent systems through code, learning, and curiosity.”
+
+</div>
