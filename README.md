@@ -1,65 +1,62 @@
 <h1 align="center">Hi 👋, I'm Vismaya K</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Computer Science Student @ PSG College of Technology</h3>
+<h3 align="center">Computer Science Student @ PSG College of Technology | Aspiring AI/ML & Reinforcement Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vismayavinodk/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/vismayavinodk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vismayakv36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### About Me
-Passionate Computer Science student with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. 
+### 💫 About Me
+I am a passionate Computer Science Engineering student dedicated to bridging the gap between theoretical Artificial Intelligence and scalable, real-world deployment. My primary areas of focus include **Deep Reinforcement Learning, Multi-Agent Systems, Data Privacy**, and full-stack intelligent systems.
 
-I enjoy building intelligent systems and data-driven solutions that solve real-world problems. Currently focusing on Machine Learning, Deep Learning, Predictive Analytics, and end-to-end AI/ML projects.
+*   🔭 **Current Focus:** Developing interactive, multi-agent simulation environments and exploring explainable AI.
+*   ⚡ **Fun Fact:** I love bringing models to life by building clean user interfaces and high-performance backend pipelines for them.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Toolkit
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      👁️ <b>Languages & Core</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> Python <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> JavaScript <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> MySQL
+    </td>
+    <td valign="top" width="33%">
+      🧠 <b>AI, ML & Reinforcement Learning</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/> TensorFlow <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="35" height="35"/> Keras <br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/> Scikit-Learn <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/> Pandas / NumPy
+    </td>
+    <td valign="top" width="33%">
+      🌐 <b>Web Frameworks & Tools</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/> FastAPI <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/> React.js <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> Git / GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌱 Currently Exploring
+*   🤖 **Advanced Deep RL:** Policy gradient methods and reward structure optimization.
+*   🔄 **MLOps:** End-to-end model tracking, containerization, and production-ready deployment.
+*   🌐 **Large Language Models:** Prompt engineering, fine-tuning, and vector databases.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vismayavinodk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vismaya's Top Languages" />
 </p>
-
----
-
-### 📫 How to reach me
-**vismayakv36@gmail.com**
-
----
-
-### 🌱 Currently Learning
-- Advanced Deep Learning & Model Deployment
-- MLOps
-- Large Language Models
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vismayavinodk&show_icons=true&locale=en&layout=compact&theme=radical" alt="vismayavinodk" /></p>
